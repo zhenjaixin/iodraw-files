@@ -31,8 +31,8 @@
             <mxPoint x="474.63455450057313" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="320" width="80" height="80" as="geometry" />
+        <mxCell id="G2wg6VChMASI86Ei85nW-11" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
