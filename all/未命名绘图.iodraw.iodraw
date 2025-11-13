@@ -7,9 +7,6 @@
         <mxCell id="G2wg6VChMASI86Ei85nW-1" value="球队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-4" value="聘任" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=55;" vertex="1" parent="1">
-          <mxGeometry x="305" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="G2wg6VChMASI86Ei85nW-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="G2wg6VChMASI86Ei85nW-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="270" as="sourcePoint" />
@@ -22,20 +19,20 @@
             <mxPoint x="210" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.157;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="G2wg6VChMASI86Ei85nW-4">
+        <mxCell id="G2wg6VChMASI86Ei85nW-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.157;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="250" as="sourcePoint" />
+            <mxPoint x="366.01530433111805" y="289.04199418035273" as="sourcePoint" />
             <mxPoint x="370" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.979;exitY=0.092;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="G2wg6VChMASI86Ei85nW-4" target="G2wg6VChMASI86Ei85nW-9">
+        <mxCell id="G2wg6VChMASI86Ei85nW-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.979;exitY=0.092;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="430" as="sourcePoint" />
-            <mxPoint x="425" y="370" as="targetPoint" />
+            <mxPoint x="418.02201560565265" y="373.0437083438576" as="sourcePoint" />
+            <mxPoint x="474.63455450057313" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-9" value="主教练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="G2wg6VChMASI86Ei85nW-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
