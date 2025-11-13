@@ -16,10 +16,13 @@
             <mxPoint x="260" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kduqEu5tyqcqSUBgVQ6-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2kduqEu5tyqcqSUBgVQ6-2">
+        <mxCell id="2kduqEu5tyqcqSUBgVQ6-29" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2kduqEu5tyqcqSUBgVQ6-2">
           <mxGeometry x="-0.2" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2kduqEu5tyqcqSUBgVQ6-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2kduqEu5tyqcqSUBgVQ6-3" target="2kduqEu5tyqcqSUBgVQ6-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2kduqEu5tyqcqSUBgVQ6-3" value="生产" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="80" height="80" as="geometry" />
