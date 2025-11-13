@@ -34,6 +34,9 @@
         <mxCell id="G2wg6VChMASI86Ei85nW-11" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=-60;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="G2wg6VChMASI86Ei85nW-12" value="球员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
