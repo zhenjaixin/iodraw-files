@@ -299,7 +299,7 @@
             <mxPoint x="570" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G2wg6VChMASI86Ei85nW-74" value="赞助商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
