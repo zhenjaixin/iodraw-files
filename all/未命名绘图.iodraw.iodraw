@@ -76,10 +76,16 @@
         <mxCell id="G2wg6VChMASI86Ei85nW-25" value="球队主教练" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="G2wg6VChMASI86Ei85nW-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="G2wg6VChMASI86Ei85nW-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="230" as="sourcePoint" />
             <mxPoint x="190" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2wg6VChMASI86Ei85nW-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="210" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
