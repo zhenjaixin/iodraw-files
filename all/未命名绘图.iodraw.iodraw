@@ -7,12 +7,6 @@
         <mxCell id="G2wg6VChMASI86Ei85nW-1" value="球队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-2" value="效力" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-3" value="球员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="G2wg6VChMASI86Ei85nW-4" value="聘任" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=55;" vertex="1" parent="1">
           <mxGeometry x="305" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -22,10 +16,10 @@
             <mxPoint x="290" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="G2wg6VChMASI86Ei85nW-2">
+        <mxCell id="G2wg6VChMASI86Ei85nW-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="380" as="sourcePoint" />
-            <mxPoint x="200" y="330" as="targetPoint" />
+            <mxPoint x="210" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G2wg6VChMASI86Ei85nW-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.157;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="G2wg6VChMASI86Ei85nW-4">
