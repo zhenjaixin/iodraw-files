@@ -13,8 +13,8 @@
         <mxCell id="G2wg6VChMASI86Ei85nW-3" value="球员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=55;" vertex="1" parent="1">
-          <mxGeometry x="270" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="G2wg6VChMASI86Ei85nW-4" value="聘任" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=55;" vertex="1" parent="1">
+          <mxGeometry x="305" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
