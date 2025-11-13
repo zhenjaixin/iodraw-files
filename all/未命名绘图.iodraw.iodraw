@@ -13,7 +13,7 @@
             <mxPoint x="290" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G2wg6VChMASI86Ei85nW-12">
+        <mxCell id="G2wg6VChMASI86Ei85nW-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G2wg6VChMASI86Ei85nW-12" target="G2wg6VChMASI86Ei85nW-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="400" as="sourcePoint" />
             <mxPoint x="213.33333333333337" y="376.66666666666674" as="targetPoint" />
@@ -25,13 +25,13 @@
             <mxPoint x="370" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.979;exitY=0.092;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="G2wg6VChMASI86Ei85nW-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G2wg6VChMASI86Ei85nW-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="418.02201560565265" y="373.0437083438576" as="sourcePoint" />
-            <mxPoint x="474.63455450057313" y="440" as="targetPoint" />
+            <mxPoint x="430" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-11" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=-60;" vertex="1" parent="1">
+        <mxCell id="G2wg6VChMASI86Ei85nW-11" value="效力" style="rhombus;whiteSpace=wrap;html=1;rotation=-60;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G2wg6VChMASI86Ei85nW-12" value="球员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
