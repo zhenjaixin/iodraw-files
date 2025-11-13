@@ -68,10 +68,13 @@
           <mxGeometry x="50" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G2wg6VChMASI86Ei85nW-23" value="人数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G2wg6VChMASI86Ei85nW-24" value="主场地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G2wg6VChMASI86Ei85nW-25" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
