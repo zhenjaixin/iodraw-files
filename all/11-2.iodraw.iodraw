@@ -35,7 +35,7 @@
             <mxPoint x="370" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2wg6VChMASI86Ei85nW-66" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2wg6VChMASI86Ei85nW-7">
+        <mxCell id="G2wg6VChMASI86Ei85nW-66" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2wg6VChMASI86Ei85nW-7">
           <mxGeometry x="-0.1448" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -44,6 +44,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="418.02201560565265" y="373.0437083438576" as="sourcePoint" />
             <mxPoint x="430" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2wg6VChMASI86Ei85nW-67" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2wg6VChMASI86Ei85nW-8">
+          <mxGeometry x="-0.3277" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G2wg6VChMASI86Ei85nW-11" value="效力" style="rhombus;whiteSpace=wrap;html=1;rotation=-60;" vertex="1" parent="1">
@@ -65,6 +70,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="180" as="sourcePoint" />
             <mxPoint x="420" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2wg6VChMASI86Ei85nW-68" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2wg6VChMASI86Ei85nW-17">
+          <mxGeometry x="-0.4042" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G2wg6VChMASI86Ei85nW-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="G2wg6VChMASI86Ei85nW-19">
