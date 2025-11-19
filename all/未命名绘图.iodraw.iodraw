@@ -154,7 +154,13 @@
           <mxGeometry x="335" y="465" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NB3DFL_pv2qDct_aEEVg-35" value="单价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="290" width="80" height="60" as="geometry" />
+          <mxGeometry x="490" y="510" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NB3DFL_pv2qDct_aEEVg-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NB3DFL_pv2qDct_aEEVg-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="565" as="sourcePoint" />
+            <mxPoint x="385" y="515" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
