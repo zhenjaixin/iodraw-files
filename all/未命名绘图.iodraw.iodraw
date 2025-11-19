@@ -101,6 +101,15 @@
         <mxCell id="NB3DFL_pv2qDct_aEEVg-22" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NB3DFL_pv2qDct_aEEVg-23" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NB3DFL_pv2qDct_aEEVg-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="450" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
