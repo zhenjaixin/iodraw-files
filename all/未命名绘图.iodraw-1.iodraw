@@ -208,10 +208,15 @@
         <mxCell id="5uaBigR49SmZz_BytvA2-48" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5uaBigR49SmZz_BytvA2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uaBigR49SmZz_BytvA2-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5uaBigR49SmZz_BytvA2-51" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="-290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5uaBigR49SmZz_BytvA2-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5uaBigR49SmZz_BytvA2-48" target="5uaBigR49SmZz_BytvA2-51">
+        <mxCell id="5uaBigR49SmZz_BytvA2-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5uaBigR49SmZz_BytvA2-48" target="5uaBigR49SmZz_BytvA2-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="-170" as="sourcePoint" />
             <mxPoint x="60" y="-220" as="targetPoint" />
