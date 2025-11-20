@@ -95,6 +95,11 @@
             <mxPoint x="520" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5uaBigR49SmZz_BytvA2-27" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5uaBigR49SmZz_BytvA2-22">
+          <mxGeometry x="-0.1125" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5uaBigR49SmZz_BytvA2-24" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="10" width="80" height="80" as="geometry" />
         </mxCell>
@@ -102,6 +107,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="10" as="sourcePoint" />
             <mxPoint x="520" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5uaBigR49SmZz_BytvA2-28" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5uaBigR49SmZz_BytvA2-25">
+          <mxGeometry x="-0.0143" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5uaBigR49SmZz_BytvA2-26" value="订单商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
