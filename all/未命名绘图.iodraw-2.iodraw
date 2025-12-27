@@ -8,10 +8,13 @@
           <mxGeometry x="550" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ELk-d-MLp0By5DhE37xO-2" value="join Activity" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="340" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ELk-d-MLp0By5DhE37xO-3" value="activity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELk-d-MLp0By5DhE37xO-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
